@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "hola",
+            "request": "launch",
+            "mainClass": "com.example.hola1.controllers.hola",
+            "projectName": "hola1"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Hola1Application<hola1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.hola1.Hola1Application",
+            "projectName": "hola1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
