@@ -1,13 +1,13 @@
-package com.vanir.Semana6;
+package com.example.Actividad6;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Semana6Application {
+public class Actividad6Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Semana6Application.class, args);
+		SpringApplication.run(Actividad6Application.class, args);
 	}
 
 }
