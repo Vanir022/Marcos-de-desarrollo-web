@@ -33,6 +33,7 @@ public class Actividad6Controller {
             return "<form method='get' action='/api/sumar'>"
                 + "<label>Primer número: <input type='number' name='a' required></label><br>"
                 + "<label>Segundo número: <input type='number' name='b' required></label><br>"
+                
                 + "<button type='submit'>Sumar</button>"
                 + "</form>"
                 + "<a href='/index.html'>Regresar al inicio</a>";
